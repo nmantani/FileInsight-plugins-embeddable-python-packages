@@ -1,7 +1,7 @@
-# FileInsight-plugins-embedded-python-package
-This is the repository of embedded Python and Python packages for [FileInsight-plugins](https://github.com/nmantani/FileInsight-plugins/).
+# FileInsight-plugins-embeddable-python-packages
+This is the repository of embeddable Python and Python packages for [FileInsight-plugins](https://github.com/nmantani/FileInsight-plugins/).
 
-The installation PowerShell script of FileInsight-plugins (https://raw.githubusercontent.com/nmantani/FileInsight-plugins/master/install.ps1) can install this package in addition to FileInsight-plugins. You don't need to install it manually. This package will be installed into "%USERPROFILE%\Documents\McAfee FileInsight\plugins\Operations\python3-embed" folder.
+The installation PowerShell script of FileInsight-plugins (https://raw.githubusercontent.com/nmantani/FileInsight-plugins/master/install.ps1) can install these packages in addition to FileInsight-plugins. You don't need to install them manually. They will be installed into "%USERPROFILE%\Documents\McAfee FileInsight\plugins\Operations\python3-embed" folder.
 
 ## Package dependencies
 - [Python Windows embeddable package (64-bit)](https://www.python.org/downloads/release/python-3109/)
