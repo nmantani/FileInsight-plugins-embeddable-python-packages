@@ -14,6 +14,7 @@ The installation PowerShell script of FileInsight-plugins (https://raw.githubuse
 - [lz4](https://github.com/python-lz4/python-lz4)
 - [lzjb](https://github.com/unwind/python-lzjb)
 - [matplotlib](https://github.com/matplotlib/matplotlib)
+- [msgpack](https://github.com/msgpack/msgpack-python)
 - [pefile](https://github.com/erocarrera/pefile)
 - [pybase62](https://github.com/suminb/base62)
 - [pycryptodomex](https://github.com/Legrandin/pycryptodome)
