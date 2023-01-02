@@ -19,6 +19,7 @@ The installation PowerShell script of FileInsight-plugins (https://raw.githubuse
 - [pybase62](https://github.com/suminb/base62)
 - [pycryptodomex](https://github.com/Legrandin/pycryptodome)
 - [pyimpfuzzy-windows](https://github.com/JPCERTCC/impfuzzy/tree/master/pyimpfuzzy-windows)
+- [pyliblzfse](https://github.com/ydkhatri/pyliblzfse)
 - [pyppmd](https://github.com/miurahr/pyppmd)
 - [python-lzf](https://github.com/teepark/python-lzf)
 - [python-lzo](https://github.com/jd-boyd/python-lzo)
