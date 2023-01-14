@@ -1,5 +1,9 @@
-2023-01-14 Add tlsh and telfhash
+2023-01-14
+- Add tlsh and telfhash
+- Update Pillow, lz4, and watchdog
 
-2023-01-02 Add msgpack and pyliblzfse
+2023-01-02
+Add msgpack and pyliblzfse
 
-2022-12-31 Initial version
+2022-12-31
+Initial version
