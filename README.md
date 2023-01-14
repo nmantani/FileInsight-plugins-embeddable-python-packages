@@ -29,6 +29,8 @@ The installation PowerShell script of FileInsight-plugins (https://raw.githubuse
 - [requests](https://github.com/psf/requests)
 - [seaborn](https://github.com/mwaskom/seaborn)
 - [speakeasy-emulator](https://github.com/mandiant/speakeasy)
+- [telfhash](https://github.com/trendmicro/telfhash)
+- [tlsh](https://github.com/trendmicro/tlsh/)
 - [watchdog](https://github.com/gorakhargosh/watchdog)
 - [xtea](https://github.com/Varbin/xtea)
 - [yara-python](https://github.com/VirusTotal/yara-python)
