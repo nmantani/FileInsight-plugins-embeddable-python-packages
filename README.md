@@ -4,6 +4,7 @@ This is the repository of embeddable Python and Python packages for [FileInsight
 The installation PowerShell script of FileInsight-plugins (https://raw.githubusercontent.com/nmantani/FileInsight-plugins/master/install.ps1) can install these packages in addition to FileInsight-plugins. You don't need to install them manually. They will be installed into "%USERPROFILE%\Documents\McAfee FileInsight\plugins\Operations\python3-embed" folder.
 
 ## Package dependencies
+- [Binary Refinery](https://github.com/binref/refinery)
 - [Python Windows embeddable package (64-bit)](https://www.python.org/downloads/release/python-3109/)
 - [Pillow](https://github.com/python-pillow/Pillow)
 - [PyTEA](https://github.com/codeif/PyTEA)

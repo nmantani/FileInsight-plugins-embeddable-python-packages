@@ -1,3 +1,7 @@
+2023-03-05
+- Add Binary Refinery and lzip
+- Update matplotlib, pefile, pybase62, watchdog, and zstandard
+
 2023-02-04
 - Update binwalk to 2.3.4 that fixes the remote command execution vulnerability CVE-2022-4510
 - Update matplotlib, pandas, packaging, pycryptodome, requests, and urllib3
