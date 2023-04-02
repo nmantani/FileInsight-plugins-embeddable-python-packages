@@ -1,3 +1,8 @@
+2023-04-02
+- Update Python Windows embeddable package to 3.10.10
+- Update Binary Refinery, msgpack, and yara-python
+- Remove PyTEA and xtea
+
 2023-03-05
 - Add Binary Refinery and lzip
 - Update matplotlib, pefile, pybase62, watchdog, and zstandard
