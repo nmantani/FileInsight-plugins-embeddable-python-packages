@@ -1,3 +1,7 @@
+2023-05-xx
+- Add LIEF
+- Update Binary Refinery, Pillow, requests, yara-python, and python-zstandard
+
 2023-04-02
 - Update Python Windows embeddable package to 3.10.10
 - Update Binary Refinery, msgpack, and yara-python
@@ -5,7 +9,7 @@
 
 2023-03-05
 - Add Binary Refinery and lzip
-- Update matplotlib, pefile, pybase62, watchdog, and zstandard
+- Update matplotlib, pefile, pybase62, watchdog, and python-zstandard
 
 2023-02-04
 - Update binwalk to 2.3.4 that fixes the remote command execution vulnerability CVE-2022-4510

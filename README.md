@@ -5,6 +5,7 @@ The installation PowerShell script of FileInsight-plugins (https://raw.githubuse
 
 ## Package dependencies
 - [Binary Refinery](https://github.com/binref/refinery)
+- [LIEF](https://github.com/lief-project/LIEF)
 - [Python Windows embeddable package (64-bit)](https://www.python.org/downloads/release/python-3109/)
 - [Pillow](https://github.com/python-pillow/Pillow)
 - [base58](https://github.com/keis/base58)
@@ -33,4 +34,4 @@ The installation PowerShell script of FileInsight-plugins (https://raw.githubuse
 - [tlsh](https://github.com/trendmicro/tlsh/)
 - [watchdog](https://github.com/gorakhargosh/watchdog)
 - [yara-python](https://github.com/VirusTotal/yara-python)
-- [zstandard](https://github.com/indygreg/python-zstandar)
+- [python-zstandard](https://github.com/indygreg/python-zstandard)
