@@ -1,6 +1,6 @@
 2023-05-03
 - Add LIEF
-- Update Binary Refinery, Pillow, requests, yara-python, and python-zstandard
+- Update Binary Refinery, Pillow, python-zstandard, requests, and yara-python
 
 2023-04-02
 - Update Python Windows embeddable package to 3.10.10
