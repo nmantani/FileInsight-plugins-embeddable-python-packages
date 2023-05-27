@@ -5,6 +5,7 @@ The installation PowerShell script of FileInsight-plugins (https://raw.githubuse
 
 ## Package dependencies
 - [Binary Refinery](https://github.com/binref/refinery)
+- [Goblin](https://github.com/Zrocket/Goblin)
 - [LIEF](https://github.com/lief-project/LIEF)
 - [Python Windows embeddable package (64-bit)](https://www.python.org/downloads/release/python-3109/)
 - [Pillow](https://github.com/python-pillow/Pillow)

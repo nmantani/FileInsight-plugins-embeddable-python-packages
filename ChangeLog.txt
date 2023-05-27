@@ -1,3 +1,8 @@
+2023-05-27
+- Update Python Windows embeddable package to 3.10.11
+- Add Goblin
+- Update Binary Refinery, pycryptodomex, python-lzo and requests
+
 2023-05-03
 - Add LIEF
 - Update Binary Refinery, Pillow, python-zstandard, requests, and yara-python
