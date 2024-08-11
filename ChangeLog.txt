@@ -1,3 +1,33 @@
+2024-08-11
+- Python Windows embeddable package is updated to 3.12.5
+- The following packages are updated:
+  - Binary Refinery
+  - Brotli
+  - Capstone
+  - Pillow
+  - LIEF
+  - lz4
+  - msgpack
+  - pefile
+  - pybase62
+  - pycryptodomex
+  - pyppmd
+  - python-lzf
+  - python-magic
+  - python-snappy
+  - qiling
+  - requests
+  - seaborn
+  - speakeasy-emulator
+  - watchdog
+  - yara-python
+  - zstandard
+- Binwalk is switched to the forked version (https://github.com/OSPG/binwalk)
+- blackboxprotobuf is switched from the forked version to the original version
+  (https://github.com/nccgroup/blackboxprotobuf)
+- libmagic.dll and magic.mgc of python-magic-bin are replaced with those of
+  file-windows (https://github.com/julian-r/file-windows)
+
 2023-05-27
 - Update Python Windows embeddable package to 3.10.11
 - Add Goblin
