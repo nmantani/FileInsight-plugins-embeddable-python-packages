@@ -1,3 +1,6 @@
+2024-12-01
+- Downgrade unicorn from 2.1.1 to 2.0.1.post1 to fix breakage of speakeasy-emulator
+
 2024-11-24
 - Binwalk is switched to the original author's version 3 that is rewritten with Rust
   (https://github.com/ReFirmLabs/binwalk) and binwalk.exe is bundled with this package
